@@ -3,7 +3,7 @@
 
   <head>
     <title>@yield('title','开始') - 凑学</title>
-    <link rel="stylesheet" href="/css/app.css">
+    <link rel="stylesheet" href="{{mix('css/app.css')}}">
   </head>
 
   <body>
