@@ -24,7 +24,7 @@
     </p>
 
     <p>
-      <a class="btn btn-lg btn-success" href="#" role="button">马上注册</a>
+      <a class="btn btn-lg btn-success" href="{{ route('signup') }}" role="button">马上注册</a>
     </p>
 
   </div>
